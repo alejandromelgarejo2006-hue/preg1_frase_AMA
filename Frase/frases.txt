@@ -2,6 +2,10 @@
 
 "Nunca pierdo. O gano o aprendo." Nelson Mandela
 
+<<<<<<< HEAD
 
 
 Esta frase es distinta por obligacion del profesor | Alejandro Melgarejo 
+=======
+Lo mejor de un examen es cuando lo terminas | Alejandro Melgarejo 
+>>>>>>> origin/main
